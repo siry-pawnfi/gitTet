@@ -16,5 +16,9 @@ text = '//ccc////'
 text = '//ccc////'
 
 let a = '修复issue #1'
-let a = '修复issue #1'
+let b = '修复issue #1'
+
+
+
+let c = '修复issue #2'
 
