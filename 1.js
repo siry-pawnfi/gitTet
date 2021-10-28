@@ -7,5 +7,5 @@ const age = 22
 const id = 22
 
 
-text = '//////'
+text = '//ccc////'
 
